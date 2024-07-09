@@ -1,5 +1,6 @@
 # Aplikacja Formularza Logowania
 
+
 PL
 
 Prosta aplikacja formularza logowania napisana w języku PHP i HTML z wykorzystaniem frameworka Bootstrap. Ta aplikacja pozwala użytkownikowi wprowadzić adres e-mail, hasło i opcjonalnie zaznaczyć "Zapamiętaj mnie". Po zatwierdzeniu formularza dane są weryfikowane, a następnie wyświetlane na ekranie.
